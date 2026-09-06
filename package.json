@@ -1,0 +1,10 @@
+{
+  "name": "mijinmo-portfolio",
+  "private": true,
+  "scripts": {
+    "build": "python scripts/build.py",
+    "check": "python scripts/check.py",
+    "dev": "python scripts/serve.py",
+    "test": "python scripts/test_content.py"
+  }
+}

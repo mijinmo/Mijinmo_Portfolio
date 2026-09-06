@@ -1,0 +1,1 @@
+Investigated motion discrimination and image recognition in Drosophila larvae using reinforcement learning, providing a behavioral basis for network-dynamics modeling in a well-defined visual circuit.

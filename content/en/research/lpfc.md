@@ -1,0 +1,1 @@
+Studied population coding in monkey working-memory error trials, building on prior work on stable subspaces. Focused on the 300 ms pre-motor activity in LPFC and FEF. Used PCA and LDA to define subspaces and reduce noise, and PSTHs to examine the distribution of error and aborted trials across task stages.

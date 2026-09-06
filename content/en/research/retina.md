@@ -1,0 +1,1 @@
+Developed Python software to detect glaucoma and measure vessel length. Built two CNN models based on optic disc and cup radii, with accuracy reported in the original project at approximately 0.8–0.9. Used OpenCV segmentation for vessel measurement and developed a GUI.

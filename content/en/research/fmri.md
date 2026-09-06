@@ -1,0 +1,1 @@
+Based on a published paper, used ANOVA in R to screen data before predicting valence with classification and regression. Multilayer neural networks and SVMs performed above chance; linear regression produced similar results.
